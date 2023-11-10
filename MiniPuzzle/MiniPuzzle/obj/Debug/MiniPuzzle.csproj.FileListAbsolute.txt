@@ -1,0 +1,37 @@
+C:\Documents and Settings\M8SPY\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+C:\Documents and Settings\M8SPY\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+C:\Documents and Settings\M8SPY\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\M8SPY\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+C:\Documents and Settings\M8SPY\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.Cache
+C:\Documents and Settings\M8SPY\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+C:\Documents and Settings\M8SPY\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.pdb
+C:\Documents and Settings\M8SPY\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.FrmMain.resources
+C:\Documents and Settings\M8SPY\Desktop\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.FrmGame.resources
+E:\Microsoft.NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+E:\Microsoft.NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.pdb
+E:\Microsoft.NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+E:\Microsoft.NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+E:\Microsoft.NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\ResolveAssemblyReference.cache
+E:\Microsoft.NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.FrmMain.resources
+E:\Microsoft.NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.FrmGame.resources
+E:\Microsoft.NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+E:\Microsoft.NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.Cache
+E:\Microsoft Dot NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+E:\Microsoft Dot NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.pdb
+E:\Microsoft Dot NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+E:\Microsoft Dot NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+E:\Microsoft Dot NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\ResolveAssemblyReference.cache
+E:\Microsoft Dot NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.FrmMain.resources
+E:\Microsoft Dot NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.FrmGame.resources
+E:\Microsoft Dot NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+E:\Microsoft Dot NET\C#.NET\My C#.NET Programs\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.Cache
+E:\done\هوش\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+E:\done\هوش\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.pdb
+E:\done\هوش\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csprojAssemblyReference.cache
+E:\done\هوش\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.FrmMain.resources
+E:\done\هوش\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.FrmGame.resources
+E:\done\هوش\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.Properties.Resources.resources
+E:\done\هوش\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.GenerateResource.cache
+E:\done\هوش\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.csproj.CoreCompileInputs.cache
+E:\done\هوش\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.exe
+E:\done\هوش\MiniPuzzle\MiniPuzzle\obj\Debug\MiniPuzzle.pdb

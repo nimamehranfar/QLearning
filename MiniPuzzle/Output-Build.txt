@@ -1,0 +1,6 @@
+------ Build started: Project: MiniPuzzle, Configuration: Debug Any CPU ------
+C:\WINDOWS\Microsoft.NET\Framework\v3.5\Csc.exe /noconfig /nowarn:1701,1702 /errorreport:prompt /warn:4 /define:DEBUG;TRACE /reference:C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /reference:C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Deployment.dll /reference:C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.dll /reference:C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Drawing.dll /reference:C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Windows.Forms.dll /reference:C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /debug+ /debug:full /filealign:512 /optimize- /out:obj\Debug\MiniPuzzle.exe /resource:obj\Debug\MiniPuzzle.FrmMain.resources /resource:obj\Debug\MiniPuzzle.FrmGame.resources /resource:obj\Debug\MiniPuzzle.Properties.Resources.resources /target:winexe Form1.cs Form1.Designer.cs Form2.cs Form2.Designer.cs Program.cs Properties\AssemblyInfo.cs Properties\Resources.Designer.cs Properties\Settings.Designer.cs
+
+Compile complete -- 0 errors, 0 warnings
+MiniPuzzle -> C:\Documents and Settings\M8SPY\Desktop\MiniPuzzle\MiniPuzzle\bin\Debug\MiniPuzzle.exe
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
